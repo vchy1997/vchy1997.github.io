@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotnet/runtime on vchy1997 blog</title>
+    <link>/zh-cn/categories/dotnet/runtime/</link>
+    <description>Recent content in dotnet/runtime on vchy1997 blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016-{year} vchy1997. All Rights Reserved.</copyright><atom:link href="/zh-cn/categories/dotnet/runtime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>runtime project</title>
+      <link>/zh-cn/posts/shortcodes/runtime/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/zh-cn/posts/shortcodes/runtime/</guid>
+      <description>&lt;p&gt;关于 dotnet/runtime 项目结构&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
