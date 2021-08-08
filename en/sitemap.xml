@@ -2,217 +2,217 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/tags/css/</loc>
+    <loc>https://vchy1997.github.io/en/tags/css/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/html/</loc>
+    <loc>https://vchy1997.github.io/en/tags/html/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/markdown/</loc>
+    <loc>https://vchy1997.github.io/en/tags/markdown/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/markdown-syntax/</loc>
+    <loc>https://vchy1997.github.io/en/posts/markdown-syntax/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-  </url><url>
-    <loc>/en/series/</loc>
+    <loc>https://vchy1997.github.io/en/posts/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/series/"
+                href="https://vchy1997.github.io/zh-cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://vchy1997.github.io/en/posts/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>https://vchy1997.github.io/en/series/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/"
+                href="https://vchy1997.github.io/zh-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://vchy1997.github.io/en/series/"
                 />
   </url><url>
-    <loc>/en/series/user-manual/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/</loc>
+    <loc>https://vchy1997.github.io/en/tags/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/"
+                href="https://vchy1997.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://vchy1997.github.io/en/tags/"
                 />
   </url><url>
-    <loc>/en/tags/alert/</loc>
+    <loc>https://vchy1997.github.io/en/series/user-manual/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vchy1997.github.io/en/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://vchy1997.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vchy1997.github.io/en/"
+                />
+  </url><url>
+    <loc>https://vchy1997.github.io/en/tags/alert/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/alert/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/alert/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/bilibili/</loc>
+    <loc>https://vchy1997.github.io/en/tags/bilibili/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/bilibili/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/bilibili/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>https://vchy1997.github.io/en/categories/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/categories/"
+                href="https://vchy1997.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://vchy1997.github.io/en/categories/"
                 />
   </url><url>
-    <loc>/en/tags/codepen/</loc>
+    <loc>https://vchy1997.github.io/en/tags/codepen/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/codepen/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/codepen/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/iqiyi/</loc>
+    <loc>https://vchy1997.github.io/en/tags/iqiyi/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/iqiyi/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/iqiyi/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/jsfiddle/</loc>
+    <loc>https://vchy1997.github.io/en/tags/jsfiddle/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/jsfiddle/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/jsfiddle/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/jsrun/</loc>
+    <loc>https://vchy1997.github.io/en/tags/jsrun/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/jsrun/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/jsrun/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/netease-music/</loc>
+    <loc>https://vchy1997.github.io/en/tags/netease-music/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/neteasemusic/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/neteasemusic/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/categories/shortcode/</loc>
+    <loc>https://vchy1997.github.io/en/categories/shortcode/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/posts/shortcodes/"
+                href="https://vchy1997.github.io/zh-cn/posts/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/shortcodes/"
+                href="https://vchy1997.github.io/en/posts/shortcodes/"
                 />
   </url><url>
-    <loc>/en/tags/tencent-video/</loc>
+    <loc>https://vchy1997.github.io/en/tags/tencent-video/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/tencentvideo/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/tencentvideo/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/youku/</loc>
+    <loc>https://vchy1997.github.io/en/tags/youku/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/youku/</loc>
+    <loc>https://vchy1997.github.io/en/posts/shortcodes/youku/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/instagram/</loc>
+    <loc>https://vchy1997.github.io/en/tags/instagram/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/privacy/</loc>
+    <loc>https://vchy1997.github.io/en/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/rich-content/</loc>
+    <loc>https://vchy1997.github.io/en/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/twitter/</loc>
+    <loc>https://vchy1997.github.io/en/tags/twitter/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/vimeo/</loc>
+    <loc>https://vchy1997.github.io/en/tags/vimeo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/youtube/</loc>
+    <loc>https://vchy1997.github.io/en/tags/youtube/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/placeholder-text/</loc>
+    <loc>https://vchy1997.github.io/en/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/text/</loc>
+    <loc>https://vchy1997.github.io/en/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/math/</loc>
+    <loc>https://vchy1997.github.io/en/tags/math/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/math-typesetting/</loc>
+    <loc>https://vchy1997.github.io/en/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/emoji/</loc>
+    <loc>https://vchy1997.github.io/en/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/emoji-support/</loc>
+    <loc>https://vchy1997.github.io/en/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/about/</loc>
+    <loc>https://vchy1997.github.io/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/archives/</loc>
+    <loc>https://vchy1997.github.io/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/archives/"
+                href="https://vchy1997.github.io/zh-cn/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archives/"
+                href="https://vchy1997.github.io/en/archives/"
                 />
   </url><url>
-    <loc>/en/search/</loc>
+    <loc>https://vchy1997.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/search/"
+                href="https://vchy1997.github.io/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/search/"
+                href="https://vchy1997.github.io/en/search/"
                 />
   </url>
 </urlset>

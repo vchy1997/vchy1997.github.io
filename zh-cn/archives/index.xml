@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>归档 on vchy1997 blog</title>
-    <link>/zh-cn/archives/</link>
+    <link>https://vchy1997.github.io/zh-cn/archives/</link>
     <description>Recent content in 归档 on vchy1997 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2016-{year} vchy1997. All Rights Reserved.</copyright><atom:link href="/zh-cn/archives/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2016-{year} vchy1997. All Rights Reserved.</copyright><atom:link href="https://vchy1997.github.io/zh-cn/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

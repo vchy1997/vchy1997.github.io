@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youku on vchy1997</title>
-    <link>/en/tags/youku/</link>
+    <link>https://vchy1997.github.io/en/tags/youku/</link>
     <description>Recent content in Youku on vchy1997</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2016-{year} vchy1997. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/youku/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vchy1997.github.io/en/tags/youku/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Youku Video Shortcode</title>
-      <link>/en/posts/shortcodes/youku/</link>
+      <link>https://vchy1997.github.io/en/posts/shortcodes/youku/</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/en/posts/shortcodes/youku/</guid>
+      <guid>https://vchy1997.github.io/en/posts/shortcodes/youku/</guid>
       <description>&lt;p&gt;A detailed description of Youku shortcode.&lt;/p&gt;</description>
     </item>
     

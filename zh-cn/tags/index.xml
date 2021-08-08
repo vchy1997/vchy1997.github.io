@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>标签 on vchy1997 blog</title>
-    <link>/zh-cn/tags/</link>
+    <link>https://vchy1997.github.io/zh-cn/tags/</link>
     <description>Recent content in 标签 on vchy1997 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2016-{year} vchy1997. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vchy1997.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>project</title>
-      <link>/zh-cn/tags/project/</link>
+      <link>https://vchy1997.github.io/zh-cn/tags/project/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/zh-cn/tags/project/</guid>
+      <guid>https://vchy1997.github.io/zh-cn/tags/project/</guid>
       <description></description>
     </item>
     
