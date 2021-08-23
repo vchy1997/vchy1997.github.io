@@ -1,28 +1,32 @@
 <!doctype html>
 <html lang="zh-cn">
   <head>
-	<meta name="generator" content="Hugo 0.85.0" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>vchy1997 blog</title><link rel="apple-touch-icon" href="https://vchy1997.github.io/images/favicons/apple-touch-icon.png" sizes="180x180">
+    <title>UML类图 - vchy1997 blog</title><link rel="apple-touch-icon" href="https://vchy1997.github.io/images/favicons/apple-touch-icon.png" sizes="180x180">
 <link rel="icon" href="https://vchy1997.github.io/images/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
 <link rel="icon" href="https://vchy1997.github.io/images/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
 <link rel="manifest" href="https://vchy1997.github.io/images/favicons/manifest.json">
 <link rel="icon" href="https://vchy1997.github.io/images/favicons/favicon.ico">
-<meta name="keywords" content="c#,csharp,dotnet,aspnetcore" />
-<meta name="description" content="csharp blog" /><meta itemprop="name" content="vchy1997 blog">
-<meta itemprop="description" content="csharp blog"><meta property="og:title" content="vchy1997 blog" />
-<meta property="og:description" content="csharp blog" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://vchy1997.github.io/zh-cn/" /><meta property="og:site_name" content="vchy1997 blog" />
+<meta name="keywords" content="" />
+<meta name="description" content="UML类图说明" /><meta itemprop="name" content="UML类图">
+<meta itemprop="description" content="UML类图说明"><meta itemprop="datePublished" content="2021-08-23T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-08-23T00:00:00+00:00" />
+<meta itemprop="wordCount" content="441">
+<meta itemprop="keywords" content="UML," /><meta property="og:title" content="UML类图" />
+<meta property="og:description" content="UML类图说明" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://vchy1997.github.io/zh-cn/posts/shortcodes/uml/uml/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-08-23T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-08-23T00:00:00+00:00" /><meta property="og:site_name" content="vchy1997 blog" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="vchy1997 blog"/>
-<meta name="twitter:description" content="csharp blog"/>
-<link rel="alternate" type="application/rss+xml" href="https://vchy1997.github.io/zh-cn/index.xml" title="vchy1997 blog" /><meta data-name="palette" content="green"><link rel=stylesheet href="https://vchy1997.github.io/css/bundle.min.f2209a83bfa7f733540426e3abe2edccef95ac63c8535e2b3750caccec2f85ed.css" integrity="sha256-8iCag7&#43;n9zNUBCbjq&#43;LtzO&#43;VrGPIU14rN1DKzOwvhe0=" crossorigin="anonymous"><script src="https://vchy1997.github.io/js/bundle.min.4083675d8bc200176b01adbcbcf908a3b4bc116670ae0960009693ddbafd5ee9.js" integrity="sha256-QINnXYvCABdrAa28vPkIo7S8EWZwrglgAJaT3br9Xuk=" crossorigin="anonymous"></script>
+<meta name="twitter:title" content="UML类图"/>
+<meta name="twitter:description" content="UML类图说明"/>
+<meta data-name="palette" content="green"><link rel=stylesheet href="https://vchy1997.github.io/css/bundle.min.f2209a83bfa7f733540426e3abe2edccef95ac63c8535e2b3750caccec2f85ed.css" integrity="sha256-8iCag7&#43;n9zNUBCbjq&#43;LtzO&#43;VrGPIU14rN1DKzOwvhe0=" crossorigin="anonymous"><script src="https://vchy1997.github.io/js/bundle.min.4083675d8bc200176b01adbcbcf908a3b4bc116670ae0960009693ddbafd5ee9.js" integrity="sha256-QINnXYvCABdrAa28vPkIo7S8EWZwrglgAJaT3br9Xuk=" crossorigin="anonymous"></script>
 </head><body class="mode-dark"><header><nav class="navbar navbar-expand-xl fixed-top">
   <div class="container">
-    <a class="navbar-brand active" href="https://vchy1997.github.io/zh-cn/">
+    <a class="navbar-brand" href="https://vchy1997.github.io/zh-cn/">
       <img class="logo" alt="Logo" src="https://avatars.githubusercontent.com/u/53808804?s=40" loading="lazy">Blog</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -137,43 +141,95 @@
 <main role="main" class="container">
       <div class="row content">
 <div class="col-lg-8">
-  <div class="container"><div class="posts mb-4"><article class="post row surface"><div class="post-body">
-        <h2 class="post-title mb-4"><a href="https://vchy1997.github.io/zh-cn/posts/shortcodes/uml/uml/">UML类图
-</a></h2><div class="post-meta mb-3"><span class="post-date me-2">
+  <div class="container"><nav class="row" aria-label="breadcrumb">
+  <ol class="breadcrumb surface"><li class="breadcrumb-item"><a href="https://vchy1997.github.io/zh-cn/">主页</a></li><li class="breadcrumb-item"><a href="https://vchy1997.github.io/zh-cn/posts/">文章</a></li><li class="breadcrumb-item"><a href="https://vchy1997.github.io/zh-cn/posts/shortcodes/">Shortcode</a></li><li class="breadcrumb-item active">UML类图</li></ol>
+</nav><article class="post row surface"><div class="post-panel-wrapper">
+  <div class="post-panel d-flex flex-column">
+    <a id="sidebarToggler" class="action d-none d-lg-block" role="button">
+  <i class="fas fa-fw fa-expand-alt fa-rotate-45"></i>
+</a>
+  
+    
+
+    
+    <a class="action" data-bs-container="body" data-bs-toggle="popover" data-bs-html="true" data-bs-placement="bottom"
+  data-bs-trigger="focus" tabindex="0"
+  data-bs-content="&lt;a target=&#34;_blank&#34; rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&#34;&gt;CC BY-NC-ND 4.0 &lt;i class=&#34;fab fa-fw fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-fw fa-creative-commons-by&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-fw fa-creative-commons-nc&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-fw fa-creative-commons-nd&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+">
+  <i class="fas fa-fw fa-copyright"></i>
+</a>
+    <a id="btnTOC" class="fas fa-fw fa-list-alt" data-bs-toggle="offcanvas" href="#offcanvasTOC" aria-controls="offcanvasTOC" role="button">
+</a>
+  </div>
+</div>
+<h1 class="post-title my-3">UML类图
+</h1><div class="post-meta mb-3"><span class="post-date me-2">
     <i class="fas fa-fw fa-calendar-alt"></i>2021-08-23
   </span><span class="post-reading-time me-2">
     <i class="fas fa-fw fa-coffee"></i>1 分钟阅读
   </span><a href="https://vchy1997.github.io/zh-cn/categories/uml/" class="post-taxonomy">#UML</a><a href="https://vchy1997.github.io/zh-cn/tags/uml/" class="post-taxonomy">#UML</a></div>
-<div class="post-summary mb-3">
-          类 1. 类图分为三层 2. 第一层为类的名称,如果是抽象类,则用斜体表示 3. 第二次是类的特性,通常就是字段和数学 4. 第三次是类的操作,通常为方法或行为 5. 注
-        </div>
-      </div>
-    </article><article class="post row surface"><div class="post-body">
-        <h2 class="post-title mb-4"><a href="https://vchy1997.github.io/zh-cn/posts/shortcodes/git/git/">git命令
-</a></h2><div class="post-meta mb-3"><span class="post-date me-2">
-    <i class="fas fa-fw fa-calendar-alt"></i>2021-08-10
-  </span><span class="post-reading-time me-2">
-    <i class="fas fa-fw fa-coffee"></i>1 分钟阅读
-  </span><a href="https://vchy1997.github.io/zh-cn/categories/git/" class="post-taxonomy">#git</a><a href="https://vchy1997.github.io/zh-cn/tags/git/" class="post-taxonomy">#git</a></div>
-<div class="post-summary mb-3">
-          git 提交 1.将当前已添加暂存区内容提交 git commit -m &#39;&lt;提交说明&gt;&#39; 2.将当前修改内容添加并提交 git commit -am &#39;&lt;提
-        </div>
-      </div>
-    </article><article class="post row surface"><div class="post-body">
-        <h2 class="post-title mb-4"><a href="https://vchy1997.github.io/zh-cn/posts/shortcodes/runtime/">runtime project
-</a></h2><div class="post-meta mb-3"><span class="post-date me-2">
-    <i class="fas fa-fw fa-calendar-alt"></i>2021-07-19
-  </span><span class="post-reading-time me-2">
-    <i class="fas fa-fw fa-coffee"></i>1 分钟阅读
-  </span><a href="https://vchy1997.github.io/zh-cn/categories/dotnet/runtime/" class="post-taxonomy">#dotnet/runtime</a><a href="https://vchy1997.github.io/zh-cn/tags/project/" class="post-taxonomy">#project</a></div>
-<div class="post-summary mb-3">
-          <p>关于 dotnet/runtime 项目结构</p>
-        </div>
-      </div>
-    </article></div><div class="row table-responsive mb-3"></div>
-</div>
-
-
+<div class="post-share mb-3"><div class="addthis_inline_share_toolbox"></div></div><div class="offcanvas offcanvas-end surface" tabindex="-1" id="offcanvasTOC" aria-labelledby="offcanvasTOCLabel">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="offcanvasTOCLabel">目录</h5>
+    <a role="button" data-bs-dismiss="offcanvas" aria-label="Close">
+      <span class="fas fa-2x fa-fw fa-times"></span>
+    </a>
+  </div>
+  <div class="offcanvas-body">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</div><div class="post-content mb-3"><h4 id="类">类</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">1.</span> 类图分为三层
+<span style="color:#66d9ef">2.</span> 第一层为类的名称,如果是抽象类,则用斜体表示
+<span style="color:#66d9ef">3.</span> 第二次是类的特性,通常就是字段和数学
+<span style="color:#66d9ef">4.</span> 第三次是类的操作,通常为方法或行为
+<span style="color:#66d9ef">5.</span> 注意前面的符号 &#39;+&#39; 表示public  &#39;-&#39;表示private  &#39;#&#39;表示protected
+</code></pre></div><h4 id="接口">接口</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">1.</span> 于类图的区别在于顶端有 <span style="color:#960050;background-color:#1e0010">&lt;</span>&lt;<span style="color:#f92672">interface</span>&gt;&gt; 显示,第一行为接口名称
+<span style="color:#66d9ef">2.</span> 第二行为接口方法
+<span style="color:#66d9ef">3.</span> 接口还有另一种表示方法,俗称棒棒糖表示法
+</code></pre></div><h4 id="继承">继承</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">1.</span> 继承关系用空心三角形+实线来表示
+<span style="color:#66d9ef">2.</span> 继承接口实现用空心三角形+虚线来实现
+</code></pre></div><h4 id="关联">关联</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">1.</span> 关联关系用实线箭头来表示
+</code></pre></div><h4 id="聚合">聚合</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">1.</span> 聚合是一种弱的&#39;拥有关系&#39;,体现是A对象可以包含B对象,但B对象不是A对象的一部分
+<span style="color:#66d9ef">2.</span> 聚合关系用空心的菱形 + 实现箭头来表示
+</code></pre></div><h4 id="合成">合成</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">1.</span> 合成是一种强的&#39;拥有关系&#39;,体现了严格的部分和整体的关系,部分和整体生命周期是一样的
+<span style="color:#66d9ef">2.</span> 合成关系用实心菱形 + 实现箭头来表示
+<span style="color:#66d9ef">3.</span> 合成关系两端还有数字,这被称之为基数,表明这一的类可以有几个实例
+</code></pre></div><h4 id="依赖">依赖</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">1.</span> 依赖关系用虚线箭头来表示
+</code></pre></div><h1 id="编程是一门技术更加是一门艺术">编程是一门技术,更加是一门艺术</h1>
+</div><hr /><div class="post-navs d-flex mb-3 justify-content-between">
+  <div class="post-nav w-50"><div class="prev-post btn btn-sm">
+      <a href="https://vchy1997.github.io/zh-cn/posts/shortcodes/git/git/">git命令
+</a>
+    </div></div>
+  <div class="post-nav flex-row-reverse"></div>
+</div><section class="related-posts">
+    <h3>相关文章</h3>
+    <ul class="related-posts"><li><a href="https://vchy1997.github.io/zh-cn/posts/shortcodes/git/git/">git命令
+</a></li><li><a href="https://vchy1997.github.io/zh-cn/posts/shortcodes/runtime/">runtime project
+</a></li></ul>
+  </section></article><div class="post-comments surface row"><script src="https://utteranc.es/client.js"
+  repo="vchy1997/vchy1997.github.io"
+  issue-term="pathname"
+  label="comment"
+  theme="github-dark"
+  crossorigin="anonymous"
+  async>
+</script></div></div>
 </div><aside class="col-lg-4 sidebar d-flex">
   <div class="container"><section class="profile surface row text-center">
   <div class="col-12 d-flex align-items-center justify-content-center"><img class="profile-avatar rounded-circle" src="https://avatars.githubusercontent.com/u/53808804?s=200" alt="vchy1997" loading="lazy"></div>
@@ -223,11 +279,7 @@
       <a class="nav-link social-link" target="_blank" href="https://github.com/vchy1997" title="GitHub">
         <i class="fa-fw fa-2x fab fa-github"></i>
       </a>
-    </li><li class="nav-item">
-    <a class="nav-link social-link" target="_blank" href="https://vchy1997.github.io/zh-cn/index.xml" title="RSS">
-      <i class="fas fa-fw fa-2x fa-rss"></i>
-    </a>
-  </li></nav>
+    </li></nav>
 <div class="copyright mb-2">
   Copyright © 2016-2021 vchy1997. All Rights Reserved.
 </div>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UML on vchy1997 blog</title>
+    <link>https://vchy1997.github.io/zh-cn/tags/uml/</link>
+    <description>Recent content in UML on vchy1997 blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016-{year} vchy1997. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vchy1997.github.io/zh-cn/tags/uml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UML类图</title>
+      <link>https://vchy1997.github.io/zh-cn/posts/shortcodes/uml/uml/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vchy1997.github.io/zh-cn/posts/shortcodes/uml/uml/</guid>
+      <description>类 1. 类图分为三层 2. 第一层为类的名称,如果是抽象类,则用斜体表示 3. 第二次是类的特性,通常就是字段和数学 4. 第三次是类的操作,通常为方法或行为 5. 注</description>
+    </item>
+    
+  </channel>
+</rss>

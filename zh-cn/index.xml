@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2016-{year} vchy1997. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vchy1997.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vchy1997.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UML类图</title>
+      <link>https://vchy1997.github.io/zh-cn/posts/shortcodes/uml/uml/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vchy1997.github.io/zh-cn/posts/shortcodes/uml/uml/</guid>
+      <description>类 1. 类图分为三层 2. 第一层为类的名称,如果是抽象类,则用斜体表示 3. 第二次是类的特性,通常就是字段和数学 4. 第三次是类的操作,通常为方法或行为 5. 注</description>
+    </item>
+    
+    <item>
+      <title>git命令</title>
+      <link>https://vchy1997.github.io/zh-cn/posts/shortcodes/git/git/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vchy1997.github.io/zh-cn/posts/shortcodes/git/git/</guid>
+      <description>git 提交 1.将当前已添加暂存区内容提交 git commit -m &amp;#39;&amp;lt;提交说明&amp;gt;&amp;#39; 2.将当前修改内容添加并提交 git commit -am &amp;#39;&amp;lt;提</description>
+    </item>
+    
     <item>
       <title>runtime project</title>
       <link>https://vchy1997.github.io/zh-cn/posts/shortcodes/runtime/</link>
